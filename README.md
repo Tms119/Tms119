@@ -1,87 +1,55 @@
 # Mohammad Sayem
 
-Technical founder and full stack developer. CEO and CTO at [PeerBros](https://peerbros.com/work).
+Technical founder and full-stack developer. CEO & CTO at [PeerBros](https://peerbros.com/work).
 
-I architect, design, and ship ERP systems, ecommerce marketplaces, CRMs, web applications, and SaaS platforms. I specialize in high performance frontend engineering with smooth scroll animations, 3D scenes, and reactive cloud architectures.
+I build web applications, ERP systems, CRMs, e-commerce platforms, and SaaS products. My main focus is full-stack TypeScript, React, Next.js, and backend systems with Supabase and PostgreSQL.
 
-## Core Technical Skills
+---
 
-* Languages and Frameworks: React, Next.js, TypeScript, JavaScript, Python, Express
-* Styling and Motion: Tailwind CSS, GSAP ScrollTrigger, Three.js, Framer Motion, Lenis
-* Backend and Database: Supabase, PostgreSQL, Convex, Node.js
-* Cloud and Infrastructure: Vercel, Netlify, Chrome Extensions Manifest V3, WebRTC
+## Stack
 
-## Projects and Repositories
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Animation & Motion:** GSAP, Three.js, Framer Motion
+- **Backend & Database:** Node.js, Express, Supabase, PostgreSQL, Convex, Python
+- **Tools & Platforms:** Chrome Extensions (Manifest V3), Vercel, Netlify
 
-### OutreachOS
-LinkedIn CRM platform turning profile visits and post interactions into qualified pipeline leads.
-* Domain: SaaS CRM and browser automation
-* Technologies: React 19, Next.js 15, Tailwind CSS, Framer Motion
-* Browser Extension: Chrome Extension Manifest V3 background service worker and content scripts
-* Server and Storage: Supabase PostgreSQL with Row Level Security, Vercel Serverless Functions
-* Third Party APIs: NowPayments cryptocurrency gateway, Resend email infrastructure
-* Status: Active production product with 1500+ users (outreachos.tech)
+---
 
-### PeerBros
-Official digital engineering agency portal with interactive 3D elements and automated client intake chat.
-* Domain: Agency portfolio and lead qualification engine
-* Technologies: React 19, Vite, Tailwind CSS, Three.js, GSAP ScrollTrigger, Lenis
-* Server and Storage: Convex real time cloud database, Vercel edge deployment
-* Third Party APIs: Google Gemini API, Groq SDK, Resend email service
-* Status: Live at [peerbros.com](https://peerbros.com)
+## Projects
 
-### Theme Zoo
-Digital asset store and ecommerce platform for modern website templates and custom software packages.
-* Domain: Digital commerce and template distribution
-* Technologies: Next.js 16, React 19, Tailwind CSS, Framer Motion, Zustand
-* Server and Storage: Convex document database, Convex binary file storage, Vercel
-* Authentication and Services: Clerk user authentication, Resend notifications
-* Status: Public repository at [Theme Zoo on GitHub](https://github.com/Tms119/Theme-Zoo)
+### [OutreachOS](https://outreachos.tech)
+LinkedIn CRM Chrome extension for saving leads, managing prospect lists, and tracking sales outreach.
+- **Stack:** Next.js 15, React 19, Tailwind CSS, Supabase (PostgreSQL), Chrome Extension (MV3), NowPayments, Resend
+- **Status:** 1,500+ users; development paused since Nov 2026
 
-### AirGrove
-Local device file transfer and text clipboard sync working directly inside the browser.
-* Domain: Peer to peer local data streaming without cloud accounts
-* Technologies: Vanilla JavaScript, HTML5, CSS3, QR Code pairing
-* Server and Networking: WebRTC direct data channels, PeerJS signaling, Vercel serverless telemetry
-* Status: Public repository at [github.com/Tms119/AirGrove](https://github.com/Tms119/AirGrove)
+### [PeerBros](https://peerbros.com)
+Agency website with client case studies, services, and an AI chat assistant for qualifying inbound leads.
+- **Stack:** React 19, Vite, Tailwind CSS, Three.js, GSAP ScrollTrigger, Convex, Google Gemini API, Resend
 
-### TeamGroup
-Flagship corporate portal engineered for an international manufacturing and textile conglomerate.
-* Domain: Industrial conglomerate enterprise showcase
-* Technologies: Semantic HTML5, CSS3, Vanilla JavaScript, custom pointer mechanics, canvas frame sequence animation
-* Server and Storage: Static edge distribution
-* Status: Public repository at [github.com/Tms119/TeamGroup](https://github.com/Tms119/TeamGroup)
+### [Theme Zoo](https://themeszoo.com)
+Marketplace for buying website templates and ordering custom website builds with digital file downloads.
+- **Stack:** Next.js 16, React 19, Tailwind CSS, Convex (database and file storage), Clerk, Resend
 
-### Earose Ltd
-Corporate business website presenting product catalogs and client inquiry channels.
-* Domain: Corporate enterprise web portal
-* Technologies: React 18, TypeScript, Tailwind CSS, Vite, React Router, Lucide
-* Server and Storage: Netlify edge network
-* Status: Public repository at [Earose Ltd on GitHub](https://github.com/Tms119/earose-ltd)
+### [AirGrove](https://air-grove.vercel.app)
+Direct browser-to-browser file and text transfer tool using WebRTC with no accounts or server storage required.
+- **Stack:** JavaScript, HTML5, CSS3, WebRTC, PeerJS
 
-### PETSHOP
-Retail pet supplies web storefront equipped with responsive product catalogs and shopping cart checkout.
-* Domain: Ecommerce storefront
-* Technologies: Vanilla JavaScript, HTML5, CSS3, Swiper carousel, Lenis smooth scrolling
-* Server and Storage: Static web hosting
-* Status: Private repository
+### [TEAM Group](https://team-group-two.vercel.app)
+Corporate website for TEAM Group, a manufacturing and textile company.
+- **Stack:** HTML5, CSS3, JavaScript, canvas frame scroll animation
 
-### OutreachHub Connect
-Product onboarding portal and instructional video guide for Chrome extension users.
-* Domain: SaaS marketing and customer onboarding
-* Technologies: React, TypeScript, Vite, Tailwind CSS, Radix UI, shadcn UI, TanStack Query
-* Server and Storage: Vercel edge network
-* Status: Private repository
+### [Earose Industries](https://earose.netlify.app)
+Corporate website and product catalog for an industrial packaging manufacturer.
+- **Stack:** React 18, TypeScript, Tailwind CSS, Vite, React Router
 
-### OutreachOS Extension UI
-Modern extension popup interface managing user authentication and active sync session state.
-* Domain: Browser extension interface redesign
-* Technologies: Next.js, React, TypeScript, Tailwind CSS, Radix UI, shadcn UI
-* Server and Storage: Vercel edge network
-* Status: Private repository
+### [ABC Pet Solution](https://petshop-amber.vercel.app)
+E-commerce storefront for pet products with product catalog, shopping cart, and checkout flow.
+- **Stack:** HTML5, CSS3, JavaScript, Swiper, Lenis
 
-## Connect
+---
 
-* Portfolio: [peerbros.com/work](https://peerbros.com/work)
-* SaaS Product: [outreachos.tech](https://outreachos.tech)
-* LinkedIn: [Mohammad Sayem on LinkedIn](https://linkedin.com/in/mohammad-sayem)
+## Links
+
+- **Portfolio:** [peerbros.com/work](https://peerbros.com/work)
+- **Product:** [outreachos.tech](https://outreachos.tech)
+- **LinkedIn:** [linkedin.com/in/mohammad-sayem](https://linkedin.com/in/mohammad-sayem)
