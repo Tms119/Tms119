@@ -38,7 +38,7 @@ Direct browser-to-browser file and text transfer tool using WebRTC with no accou
 Corporate website for TEAM Group, a manufacturing and textile company.
 - **Stack:** HTML5, CSS3, JavaScript, canvas frame scroll animation
 
-### [Earose Industries](https://earose.netlify.app)
+### [Earose Industries](https://earoseltd.com)
 Corporate website and product catalog for an industrial packaging manufacturer.
 - **Stack:** React 18, TypeScript, Tailwind CSS, Vite, React Router
 
